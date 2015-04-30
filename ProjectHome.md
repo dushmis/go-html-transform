@@ -1,0 +1,1 @@
+This project has moved to [bitbucket](https://bitbucket.org/zaphar/go-html-transform)
